@@ -19,3 +19,26 @@
     background-color: rgb(27, 173, 27);
 
 }
+.Button {
+    font-size: 28px;
+    font-family: Arial, Helvetica, sans-serif, 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+ .Alpha{
+    background-color: black;
+    color: white;
+}
+.two {
+    background-color: yellow;
+    color: royalblue;
+}
+
+ .avatar.proportioned {
+    width: 300px;
+    height: auto;
+}
+
+ .avatar.distorted{
+    width: 200px;
+    height: 400px;
+}
